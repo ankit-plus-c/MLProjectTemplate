@@ -1,4 +1,4 @@
-## End to End MAchine Learning Project
+## End to End Machine Learning Project
 
 1. model loading should be with os.path.join()
 2. Create application in beanstalk with python 3.7 
